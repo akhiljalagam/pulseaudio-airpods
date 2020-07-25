@@ -1,7 +1,7 @@
 <!-- ![Mastodon Follow](https://img.shields.io/mastodon/follow/28693?domain=https%3A%2F%2Fmastodon.online&style=flat-square) -->
-![Keybase PGP](https://img.shields.io/keybase/pgp/akhiljalagam?style=flat-square)
+<!-- ![Keybase PGP](https://img.shields.io/keybase/pgp/akhiljalagam?style=flat-square)
 ![Keybase BTC](https://img.shields.io/keybase/btc/akhiljalagam?style=flat-square)
-
+ -->
 # pulseaudio-airpods 💃🕺
 a shell script for managing airpods and airpods pro on linux.  
 
