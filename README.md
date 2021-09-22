@@ -21,7 +21,7 @@ AIRPODS_NAME='bluez_card.4C_6B_E8_80_46_84' # you can find this using 'pactl lis
 
 ## Usage
 ```
-pusleaudio-airpods connect/toggle_profile/disconnect
+pulseaudio-airpods connect/toggle_profile/disconnect
 ```
 ## Note
 you should first pair your airpods using blueman and trust them to use this script
